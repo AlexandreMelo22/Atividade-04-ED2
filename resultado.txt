@@ -1,0 +1,3 @@
+Comparativo:
+Árvore AVL: Tempo total = 0.05 segundos
+Árvore Rubro-Negra: Tempo total = 0.05 segundos
